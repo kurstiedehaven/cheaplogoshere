@@ -44,7 +44,7 @@ For additional questions, you can reach me through:
 - GitHub: [kurstiedehaven](https://github.com/kurstiedehaven)
 - Email: kurstiedehaven@gmail.com
 
-## ## [Deployed/Video](#deployed/video)
+## [Deployed/Video](#deployed/video)
 
 ## -- https://drive.google.com/file/d/13yWyoXowG5kmOGHlE_neBiJimRNGP-np/view
 
