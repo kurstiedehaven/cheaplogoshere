@@ -1,0 +1,16 @@
+{
+  "name": "homework10",
+  "version": "1.0.0",
+  "description": "This is a command-line application that takes in user input to generate a logo and saves the logo as an SVG file.",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest --watchAll --verbose --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
