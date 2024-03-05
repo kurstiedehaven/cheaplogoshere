@@ -46,6 +46,6 @@ For additional questions, you can reach me through:
 
 ## [Deployed/Video](#deployed/video)
 
-## -- https://drive.google.com/file/d/13yWyoXowG5kmOGHlE_neBiJimRNGP-np/view
+-- https://drive.google.com/file/d/13yWyoXowG5kmOGHlE_neBiJimRNGP-np/view
 
 You can reach me via email or on LinkedIn.
