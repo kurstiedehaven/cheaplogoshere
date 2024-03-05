@@ -1,5 +1,5 @@
 
         <svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
-        <circle cx="150" cy="100" r="90" fill="red" />
-        <text x="150" y="90" font-family="monospace" font-size="40" fill="whtie" text-anchor="middle" dy=".3em" >KDD</text>
+        <circle cx="150" cy="100" r="90" fill="Green" />
+        <text x="150" y="90" font-family="monospace" font-size="40" fill="Orange" text-anchor="middle" dy=".3em" >KDD</text>
         </svg >
